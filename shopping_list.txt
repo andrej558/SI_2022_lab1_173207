@@ -3,3 +3,4 @@ Fish x 9
 Chips x 4 
 Cucumber x 10
 Baloney x 3
+Onion x 8
