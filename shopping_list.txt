@@ -1,22 +1,6 @@
 Tomato x 2
 Fish x 9
 Chips x 4 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Cucumber x 3 
-Baloney x 3
-=======
-<<<<<<< HEAD
-Cucumber x 10 
-Baloney x 3
-=======
-Cucumber x 10
-Baloney x 3
-Onion x 8
->>>>>>> branch2
->>>>>>> branch2
-=======
 Cucumber x 3 
 Baloney x 3
 Onion x 8
->>>>>>> branch2
