@@ -1,5 +1,5 @@
-Tomato 
-Fish 
-Chips 
-Cucumber 
-Baloney 
+Tomato x 2
+Fish x 1
+Chips x 4 
+Cucumber x 3 
+Baloney x 5
