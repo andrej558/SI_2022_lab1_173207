@@ -1,0 +1,20 @@
+1. git clone https://github.com/andrej558/SI_2022_lab1_173207 - го копиравме github репото со оваа команда
+2. git add shopping_list.txt - со оваа команда ставаме на stage листата за пазарење што ја креиравме.
+3. git commit -a -m "Add 5 items to the shopping list" - со ова креиравме првиот commit (првична верзија) на локалното репо.
+4. git commit -a -m "Add quantities to the items.” - после додавање на количина на секој продукт правиме commit на нов текст фајл.
+5. git branch branch1 - се креира нова гранка со име branch1
+6. git branch branch2 - се креира нова гранка со име branch2
+7. git push - со ова правиме upload од нашето локално до remote репото на мастер гранката.
+8. git push origin branch1 - креираме нов branch на github со име branch1
+9. git push origin branch2 - креираме нов branch на github со име branch2
+10. git checkout branch1 - се префрламе на branch1
+11. git add shopping_list.txt - со оваа команда ставаме на stage листата за пазарење што ја ажуриравме.
+12. git commit -m "Change quantity of item #5" - креираме нов commit. 
+13. git checkout master - се вракаме на master гранка.
+14. git commit -а -m "Change quantity of item #2" - ги додаваме промените што ги направивме и правиме нов commit.
+15. git checkout branch1
+16. git push --set-upstream origin branch1
+17. git checkout branch2
+18. git commit -a -m "Modify item #4"
+19. git commit -a -m "Modify item #4 and add item #6"
+20. git merge branch1
